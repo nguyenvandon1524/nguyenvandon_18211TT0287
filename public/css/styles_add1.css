@@ -1,0 +1,133 @@
+@media only screen and (min-width: 768px) {
+    footer{
+        text-align: right !important;
+    }
+}
+
+footer{
+    text-align: center;
+}
+
+header{
+    height: 500px;
+    background-image: url("../images/hero4.jpg");
+    background-repeat: no-repeat;
+}
+
+.nav-item{
+    display: flex;
+    padding-top: 30px;
+    color: white;
+}
+
+.navbar-expand-md .navbar-light .bg-light>.navbar-brand{
+    color: white;
+}
+
+.navbar{
+    background-image: url("../images/hero4.jpg");
+    background-repeat: repeat;
+    display: flex;
+    position: relative;
+
+}
+
+.title{
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.content-title{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.RM{
+    text-align: center;
+    padding: 50px;
+}
+
+.theme{
+    background: rgb(200, 230, 240);
+    text-align: center;
+    padding: 50px;
+    margin: none;
+}
+.Readmore{
+    padding: 10px;
+    border: 2px solid; 
+    border-radius: 20px;
+}
+
+.RM:hover{
+    color: red;
+    opacity: 1;
+}
+
+.row{
+    background: rgb(200, 230, 240);
+    text-align: center;
+    margin: none;
+}
+
+.fa{
+    border: 2px solid lightgray;
+    padding: 40px;
+    color: aqua;
+    border-radius: 100%; 
+}
+
+.fa-chart-pie{
+    border: 2px solid lightgray;
+    padding: 40px;
+    color: aqua;
+    border-radius: 100%; 
+}
+
+.fa-book{
+    border: 2px solid lightgray;
+    padding: 40px;
+    color: aqua;
+    border-radius: 100%; 
+}
+.btn{
+    background: aqua;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
+.carousel{
+    padding-top: 100px;
+}
+
+.carousel-caption{
+    padding-bottom: 300px;
+}
+
+.carousel-caption p{
+    font-size: 20px;
+}
+
+.carousel-control-prev-icon{
+    padding-bottom: 200px;
+}
+.write{
+    padding: 30px 80px;
+    text-align: center;
+}
+.write2{
+    text-align: center;
+}
+
+.name-icon{
+    text-align: center;
+    color: aqua;
+    padding: 30px;
+}
+
+.end{
+    text-align: center;
+}
